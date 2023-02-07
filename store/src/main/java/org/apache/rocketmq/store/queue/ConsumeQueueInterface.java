@@ -28,7 +28,7 @@ public interface ConsumeQueueInterface {
      */
     String getTopic();
     
-    System.out.println("Hello: SE Test");
+    System.out.println("Hello: SE Test: Update");
     
     /**
      * Get queue id

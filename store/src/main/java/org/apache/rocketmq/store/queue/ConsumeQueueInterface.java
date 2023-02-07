@@ -27,7 +27,9 @@ public interface ConsumeQueueInterface {
      * @return the topic this cq belongs to.
      */
     String getTopic();
-
+    
+    System.out.println("Hello: SE Test");
+    
     /**
      * Get queue id
      * @return the queue id this cq belongs to.
